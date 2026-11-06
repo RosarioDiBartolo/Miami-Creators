@@ -26,3 +26,5 @@ dist-ssr
 *.sw?
 .vercel
 api/service-account.json
+# Public frontend build
+dist-showcase/
